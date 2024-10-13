@@ -91,7 +91,7 @@ The dataset is sourced from the [UCI Income Census Dataset](https://archive.ics.
    python -m venv env
 
    # Activate the virtual environment (on Windows)
-   env\Scriptsctivate
+   env\Scripts\activate
 
    # Activate the virtual environment (on macOS/Linux)
    source env/bin/activate
