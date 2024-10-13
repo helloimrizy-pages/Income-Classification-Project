@@ -64,7 +64,7 @@ Dataset link: https://archive.ics.uci.edu/dataset/20/census+income
 
 ## How to Run
 1. Clone the repository:
-`git clone https://github.com/yourusername/income-classification-project.git`
+`git clone https://github.com/helloimrizy-pages/Income-Classification-Project.git`
 
 2. Install dependencies:
 `pip install -r requirements.txt`
