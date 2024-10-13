@@ -1,4 +1,4 @@
-
+   
 # **Income Classification Project**
 This project predicts whether an individual's income exceeds **$50K/year** using the UCI Income Census dataset. The project involves **data preprocessing**, **feature engineering**, **model selection**, **hyperparameter tuning**, and **evaluation** using advanced metrics like **AUC-ROC** and **LIME** for explainability.
 
@@ -103,11 +103,23 @@ The dataset is sourced from the [UCI Income Census Dataset](https://archive.ics.
    ```
 
 3. **Open the Jupyter Notebook:**
+   Make sure Jupyter is installed, then run:
    ```
+   # If Jupyter is not installed
+   pip install jupyter
+   
+   # Open the Jupyter Notebook
    jupyter notebook
    ```
+   
+   After running the above command, the Jupyter Notebook will open in your browser. Navigate to the .ipynb file (e.g., income_predicted_model.ipynb) and run the cells.
+   Alternatively, you can also use JupyterLab:
+   ```
+   pip install jupyterlab
+   jupyter lab
+   ```
 
-4. Navigate to the `.ipynb` file (e.g., income_predicted_model.ipynb) and run the cells.
+5. Navigate to the `.ipynb` file (e.g., income_predicted_model.ipynb) and run the cells.
 
 ---
 
